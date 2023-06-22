@@ -1,0 +1,52 @@
+
+
+*********   IAM Services    **********
+*********                   **********
+
+       click on IAM Service
+
+        IAM Services.
+        1)creating User group
+        2)Creating User 
+        2)MFA (Multifactor Authenticators)
+
+
+********** MFA Servies *****************
+**********             *****************
+
+Step 1] click on Add MFA for root User
+
+Step 2] Click on Assgin MFA Device.
+
+Step 3] 
+         Device name:
+         
+Step 4] select MFA Device 
+
+      for ex: 1. Authenticator app. ----click
+              2. Security key.
+              3. Hardware TOTP Token .
+Step 5] click on Next Button.
+
+Step 6] Set up your authenticator app
+      
+       1. install the google Authenticaor app.
+       
+       2. Open your authenticator app, choose Show QR code on this page, 
+          then use the app to scan the code.
+       
+       3. Fill in two consecutive codes from your MFA device.
+           1.MFA code 1:
+
+           2 MFA code 2:
+
+Step 7] click on Add MFA button.
+
+
+
+
+
+
+
+
+      
